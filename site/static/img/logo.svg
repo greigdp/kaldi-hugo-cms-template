@@ -1,1 +1,68 @@
-<svg viewBox="0 0 109 24" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns"><title>Logo</title><g transform="translate(-1470)" figma:type="canvas"><g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)" fill="#f40"><use xlink:href="#b" style="mix-blend-mode:normal"/><use xlink:href="#c" style="mix-blend-mode:normal"/><use xlink:href="#d" style="mix-blend-mode:normal"/><use xlink:href="#e" style="mix-blend-mode:normal"/><use xlink:href="#f" style="mix-blend-mode:normal"/></g></g><defs><path id="b" d="M22.735 23.171c.283.323.053.829-.376.829h-5.907c-.285 0-.556-.121-.745-.333l-9.414-10.526v10.36c0 .276-.224.5-.5.5h-5.293c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v9.815l9.141-9.99c.19-.207.457-.325.738-.325h5.762c.437 0 .664.521.366.841l-9.851 10.563 10.287 11.767z"/><path id="c" d="M45.991 24c-.199 0-.38-.118-.459-.301l-2.024-4.669h-10.67l-2.024 4.669c-.079.183-.259.301-.459.301h-5.212c-.366 0-.608-.381-.453-.712l10.782-23c.082-.176.259-.288.453-.288h4.358c.194 0 .37.112.453.287l10.815 23c.156.332-.086.713-.452.713h-5.108zm-11.135-9.668h6.635l-3.317-7.694-3.317 7.694z"/><path id="d" d="M55.525 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v18.428h9.759c.276 0 .5.224.5.5v4.072c0 .276-.224.5-.5.5h-15.552z"/><path id="e" d="M75.279.5c0-.276.224-.5.5-.5h9.315c2.667 0 4.959.477 6.874 1.43 1.938.953 3.42 2.338 4.446 4.153 1.026 1.793 1.539 3.926 1.539 6.4 0 2.496-.513 4.652-1.539 6.468-1.003 1.793-2.474 3.166-4.412 4.119-1.915.953-4.218 1.43-6.908 1.43h-9.315c-.276 0-.5-.224-.5-.5v-23zm9.37 18.462c2.371 0 4.138-.579 5.301-1.736 1.163-1.157 1.744-2.905 1.744-5.242 0-2.338-.581-4.074-1.744-5.209-1.163-1.157-2.93-1.736-5.301-1.736h-3.078v13.923h3.078z"/><path id="f" d="M102.913 24c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v23c0 .276-.224.5-.5.5h-5.293z"/></defs></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 143 1815 434" width="1815pt" height="434pt" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata> Produced by OmniGraffle 7.3 
+    <dc:date>2017-05-21 16:13:23 +0000</dc:date>
+  </metadata>
+  <defs>
+    <font-face font-family="Raleway" font-size="100" panose-1="2 11 5 3 3 1 1 6 0 3" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="530" cap-height="715" ascent="940.0024" descent="-233.99353" font-weight="500">
+      <font-face-src>
+        <font-face-name name="Raleway-Regular"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Raleway" font-size="160" panose-1="2 11 9 3 3 1 1 6 0 3" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="535" cap-height="715" ascent="940.0024" descent="-233.99353" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Raleway-ExtraBold"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Raleway" font-size="160" panose-1="2 11 9 3 3 1 1 6 0 3" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="-75" x-height="535" cap-height="715" ascent="940.0024" descent="-233.99353" font-style="italic" font-weight="bold">
+      <font-face-src>
+        <font-face-name name="Raleway-ExtraBoldItalic"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <g stroke="none" stroke-opacity="1" stroke-dasharray="none" fill="none" fill-opacity="1">
+    <title>Canvas 1</title>
+    <rect fill="white" width="1815" height="720"/>
+    <g>
+      <title>Logo Diamond</title>
+      <path d="M 985.7843 171.78427 L 1145.7157 331.71573 C 1161.3367 347.3367 1161.3367 372.6633 1145.7157 388.28427 L 985.7843 548.2157 C 970.1633 563.8367 944.8367 563.8367 929.2157 548.2157 L 769.2843 388.28427 C 753.6633 372.6633 753.6633 347.3367 769.2843 331.71573 L 929.2157 171.78427 C 944.8367 156.1633 970.1633 156.1633 985.7843 171.78427 Z" fill="#ff1f1d"/>
+    </g>
+    <g>
+      <title>Logo Text</title>
+      <text transform="translate(1189.1787 243)" fill="black">
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="0" y="94" textLength="84.3">L</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="84.3" y="94" textLength="86.9">E</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="169.7" y="94" textLength="97.6">G</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="267.3" y="94" textLength="93.6">A</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="360.9" y="94" textLength="81.3">L</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="0" y="211" textLength="96.8">H</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="96.8" y="211" textLength="90.6">A</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="184.8" y="211" textLength="91.6">C</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="276.4" y="211" textLength="87.3">K</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="363.7" y="211" textLength="83.9">E</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="447.6" y="211" textLength="88.3">R</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="black" x="535.9" y="211" textLength="83.7">S</tspan>
+      </text>
+      <text transform="translate(5.821314 301.5)" fill="#ff1f1d">
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="0" y="94" textLength="83.7">S</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="83.7" y="94" textLength="91.6">C</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="174.6" y="94" textLength="98.1">O</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="269.4" y="94" textLength="84">T</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="353.4" y="94" textLength="81.3">L</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="434.7" y="94" textLength="90.6">A</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="525.3" y="94" textLength="100.2">N</tspan>
+        <tspan font-family="Raleway" font-size="100" font-weight="500" fill="#ff1f1d" x="625.5" y="94" textLength="94.5">D</tspan>
+      </text>
+    </g>
+    <g>
+      <title>stylised LH</title>
+      <text transform="translate(865 242.83923)" fill="white">
+        <tspan font-family="Raleway" font-size="160" font-weight="bold" fill="white" x=".2" y="150" textLength="93.6">L</tspan>
+      </text>
+      <text transform="translate(939.6785 290.16077)" fill="white">
+        <tspan font-family="Raleway" font-size="160" font-style="italic" font-weight="bold" fill="white" x="2.32" y="150" textLength="115.36">H</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
